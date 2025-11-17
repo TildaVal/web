@@ -170,10 +170,7 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-img {
- background: center/ cover no-repeat;
+  background: url(images/Frontal Pg.jpg) center/ cover no-repeat;
 }
 
 .hero-content {
@@ -1222,3 +1219,4 @@ footer a {
   }
 
 }
+
